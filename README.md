@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poorlearninghack
 - 👀 I’m interested in letting my inner thought create something through projects
-- 🌱 I’m currently learning react and dsa
+- 🌱 I’m currently learning react, dsa and nextjs
 - 💞️ I’m looking to collaborate on small web projects
 - 📫 How to reach me : don't
 - 😄 Pronouns: She/Her
